@@ -70,8 +70,6 @@ dataset/
 - **Number of poses:** 5 calibration poses
 - **Chessboard pattern:** 14×8 internal corners
 - **Square size:** 7 mm
-- **Image resolution:** Varies (see camera_intrinsics.yaml)
-- **Coordinate system:** Right-handed, units in millimeters
 
 ### File Formats
 
