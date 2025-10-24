@@ -140,7 +140,7 @@ You must build a complete calibration pipeline that performs the following steps
    - Validation metrics
    - Plots and visualizations
 
-3. **Report (2-3 pages):**
+3. **Report as markdown file:**
    - Methodology description
    - Results and analysis
    - Conclusions and discussion
